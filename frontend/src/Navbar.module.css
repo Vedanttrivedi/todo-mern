@@ -1,0 +1,17 @@
+.dark-theme {
+  background-color: #222;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.dark-theme a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.dark-theme a:hover {
+  color: #ccc;
+}

@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:#212121;
+}
+
+.navBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    height: 60px;
+    font-size: 24px;
+  }
+  
+  .navLink {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  

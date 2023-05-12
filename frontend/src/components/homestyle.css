@@ -1,0 +1,56 @@
+.all-todos {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    max-width: 500px;
+    font-family: sans-serif;
+    font-size: 1.2em;
+  }
+  
+  .one-todo {
+    margin-bottom: 10px;
+  }
+  
+  .task-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .buttons {
+    display: flex;
+  }
+  
+  .update-button,
+  .delete-button {
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+    padding: 4px 8px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: 0.6em;
+    color: black;
+  }
+  
+  .update-button {
+    background-color: #c7d712;
+  }
+  
+  .delete-button {
+    background-color: #e74c3c;
+  }
+  
+  li {
+    color:lightcoral;
+    font-family: verdana;
+    font-size: 1.5em;
+    padding: 10px;
+  }
+  
+  h1 {
+    color: orangered;
+    font-family: cursive;
+    font-size: 2em;
+  }
+  

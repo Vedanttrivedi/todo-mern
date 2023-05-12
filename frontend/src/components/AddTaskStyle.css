@@ -1,0 +1,33 @@
+h1 {
+    font-size: 2em;
+    color: orangered;
+    text-align: center;
+    font-family: cursive;
+    margin-top: 2em;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2em;
+  }
+  
+  input[type="text"] {
+    padding: 0.5em;
+    border: none;
+    border-radius: 0.5em;
+    font-size: 1.2em;
+    margin-bottom: 1em;
+  }
+  
+  input[type="submit"] {
+    padding: 0.5em 1em;
+    background-color: orangered;
+    color: white;
+    font-size: 1.2em;
+    border: none;
+    border-radius: 0.5em;
+    cursor: pointer;
+  }
+  

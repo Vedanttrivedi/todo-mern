@@ -1,0 +1,1 @@
+//all the fetch activities are included in necessay component files
